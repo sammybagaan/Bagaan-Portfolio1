@@ -16,48 +16,29 @@ class PortfolioController extends Controller
 
         $portfolio = [
 
-            'name' => 'Bagaan Sammy',
+            'name' => 'COLLEGE OF COMPUTER STUDIES',
 
-            'title' => 'website',
+            'title' => 'Full Stack Web Developer',
 
-            'email' => 'sammybagaan00@gmail.com',
+            'email' => 'Sammybagaan00@gmail.com',
 
-            'phone' => '+639708304430',
+            'phone' => '+639942792656',
 
-            'location' => 'blk13,lot38,area3,phase2,HASA-HASA,Malaboncity',
+            'location' => 'PH, Manila',
 
-            'bio' => 'Passionate web developer with 5+ years of experience meron nakong sariling building',
+            'bio' => 'Passionate web developer with 5+ years of experience...',
 
             'profile_image' => 'https://lh3.googleusercontent.com/a/ACg8ocLgfwX8zhrZ3ujqSBtwLgOGXQOJhIEMOW2hT0YcWNcOsVeC8LByEA=s288-c-no',
 
             'skills' => ['Laravel', 'PHP', 'JavaScript', 'HTML5', 'CSS3'],
 
             'projects' => [], // Project data
-            'school project' => 'portfolio',
-            'teacher' => 'Romark Cacho',
-            'subject' => 'WEBSYS',
-            'start time' => '7:30AM',
-            'end time' => '10:30AM',
 
             'experience' => [], // Experience data
-            'title' => 'Frontend Developer',
-            'company' => 'Creative Web Designs',
-            'location' => 'Remote',
-            'start_date' => '2017-04-15',
-            'end_date' =>'2019-05-30',
-            'description' => 'Built responsive websites and user interfaces for clients across various industries. Collaborated closely with UX/UI designers to ensure optimal user experiences.',
-            'technologies' => 'HTML, CSS, JavaScript, Sass, Bootstrap',
 
             'education' => [], // Education data
-            'degree' => 'Collage',
-            'school' => 'Global Reciprocal',
-            'location' => 'Caloocan city',
-            'start date' => '2024-04',
-            'end_date' => '2025-16',
-            'age' => '22',      
-            
-            'social_links' => [] // Social media links 
 
+            'social_links' => [] // Social media links
 
         ];
 
